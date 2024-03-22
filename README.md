@@ -6,9 +6,11 @@
 -
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- 
--
+**Clinic Healthcare Coordinator @ Columbia Urgent Care (_March 2021 - Present_)**
+- Enhanced clinic efficiency and patient record accuracy by 15% through the management of care for 500+ patients, implementing healthcare protocols, and optimizing workflow standards at Columbia Urgent Care.
+- Utilized Practice Fusion and Cerner CRM systems to collect and review medical records from various medical facilities, enabling the delivery of improved patient care, reduced health risks, and cost savings.
+- Spearheaded the development of a comprehensive clinic training program, successfully onboarding 25 medical interns within 8 weeks, and achieving $100,000 in savings in the medical training budget for the fiscal year.
+- Cultivated a strategic partnership with Diax Laboratory Inc to establish and oversee a medical laboratory for the collection of COVID-19, Urinalysis, and toxicology specimen samples, contributing to the advancement of healthcare services at Columbia Urgent Care.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - 
