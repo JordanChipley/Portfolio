@@ -1,6 +1,6 @@
 # Data Scientist (A WORK IN PROGRESS)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, AWS, Github
 
 ## Education
 -
@@ -18,17 +18,17 @@
 - Managed the daily operations of the CRM system for internal clinical functions and forged external partnerships with hospitals and clinics to enhance collaboration and service delivery.
 - Directed a pivotal 6-month oversight project overseeing the merger of three healthcare facilities. Additionally, collaborated with facilities to develop and monitor a new fiscal budget for the upcoming year, demonstrating strong leadership and financial acumen.
 
-**Operations Manager @ Fort Riley, KS (_December 2015 - April 2017_)**
+**Supply Chain Coordinator @ Fort Riley, KS (_April 2017 - September 2019_)**
 - Leveraged supply chain analytics and Professional Services Automation (PSA) to procure, ship, and monitor over $90 million worth of critical inventory, achieving zero losses over a 12-month period.
 - Developed annual budgets and forecasted costs of sensitive equipment using tools such as Pivot Tables, PowerPoint, and Kantata. Presented budget updates biweekly to management, resulting in a remarkable $5 million cost savings for the fiscal year.
 - Collaborated with project managers to design and execute internal and external training events, ensuring the successful training of over 800 personnel with a flawless 100% completion rate.
 - Spearheaded negotiations with new supply chain vendors to secure advantageous contracts for inventory procurement, demonstrating strong negotiation skills and strategic decision-making abilities.
 
-** @ Fort Riley, KS (_December 2015 - April 2017_)**
-- 
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- 
+**Operations Manager @ Fort Riley, KS (_December 2015 - April 2017_)**
+- Trained, supervised, and ensured the preparedness of a team of 26 personnel, responsible for managing sensitive inventory valued at $25 million without any losses.
+- Spearheaded the development and implementation of data-driven strategies by analyzing past inventory purchases, resulting in a notable 2-month reduction in inventory repurchase lead times.
+- Regularly visited over 20 vendor locations annually to negotiate new contracts and foster future collaborations, showcasing strong relationship-building skills and vendor management expertise.
+- Recognized with the prestigious Draper Leadership award, the highest accolade attainable within the organization. The award, based on 40 distinct criteria objectives within the Division and in competition with 80 other companies, underscores exceptional leadership and performance excellence. (MIGHT REWORD OR THROW OUT)
 
 ## Projects
 ### Data
