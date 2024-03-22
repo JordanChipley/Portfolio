@@ -12,6 +12,15 @@
 - Spearheaded the development of a comprehensive clinic training program, successfully onboarding 25 medical interns within 8 weeks, and achieving $100,000 in savings in the medical training budget for the fiscal year.
 - Cultivated a strategic partnership with Diax Laboratory Inc to establish and oversee a medical laboratory for the collection of COVID-19, Urinalysis, and toxicology specimen samples, contributing to the advancement of healthcare services at Columbia Urgent Care.
 
+**Medical Assistant @ Columbia Urgent Care (_September 2019 - March 2021_)**
+- Led the successful implementation of a new patient management system, reducing the time between clinical visits and medical follow-ups by an impressive 60%.
+- Orchestrated the organization and maintenance of patients' medical records, including x-rays, labs, and follow-up appointments, through an Electronic Health Records (EHR) system. Ensured open communication with patients to guarantee satisfaction with their treatment plans.
+- Managed the daily operations of the CRM system for internal clinical functions and forged external partnerships with hospitals and clinics to enhance collaboration and service delivery.
+- Directed a pivotal 6-month oversight project overseeing the merger of three healthcare facilities. Additionally, collaborated with facilities to develop and monitor a new fiscal budget for the upcoming year, demonstrating strong leadership and financial acumen.
+
+**Medical Assistant @ Columbia Urgent Care (_September 2019 - March 2021_)**
+- 
+
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - 
 
