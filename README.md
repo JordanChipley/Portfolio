@@ -18,7 +18,13 @@
 - Managed the daily operations of the CRM system for internal clinical functions and forged external partnerships with hospitals and clinics to enhance collaboration and service delivery.
 - Directed a pivotal 6-month oversight project overseeing the merger of three healthcare facilities. Additionally, collaborated with facilities to develop and monitor a new fiscal budget for the upcoming year, demonstrating strong leadership and financial acumen.
 
-**Medical Assistant @ Columbia Urgent Care (_September 2019 - March 2021_)**
+**Operations Manager @ Fort Riley, KS (_December 2015 - April 2017_)**
+- Leveraged supply chain analytics and Professional Services Automation (PSA) to procure, ship, and monitor over $90 million worth of critical inventory, achieving zero losses over a 12-month period.
+- Developed annual budgets and forecasted costs of sensitive equipment using tools such as Pivot Tables, PowerPoint, and Kantata. Presented budget updates biweekly to management, resulting in a remarkable $5 million cost savings for the fiscal year.
+- Collaborated with project managers to design and execute internal and external training events, ensuring the successful training of over 800 personnel with a flawless 100% completion rate.
+- Spearheaded negotiations with new supply chain vendors to secure advantageous contracts for inventory procurement, demonstrating strong negotiation skills and strategic decision-making abilities.
+
+** @ Fort Riley, KS (_December 2015 - April 2017_)**
 - 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
