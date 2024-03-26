@@ -3,7 +3,11 @@
 #### Technical Skills: Python, AWS, Github
 
 ## Education
--
+-West Governors University                                                                                                                Salt Lake City, UT
+Bachelor of Science, in Cloud Computing                                                                                             Expected Grad May 2025 
+-University of Missouri                                                                                                              Columbia, MO
+Bachelor of Science, in Health Science (Healthcare Management)                                                                       Graduated May 2021                                    -University of Central Missouri                                                                                                       Warrensburg, MO                                       Bachelor of Science, in Biology                                                                                                    Graduated May 2013                                                                                                            
+
 
 ## Work Experience
 **Clinic Healthcare Coordinator @ Columbia Urgent Care (_March 2021 - Present_)**
